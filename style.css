@@ -1,0 +1,26 @@
+.todo-app {
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+#taskInput {
+  padding: 8px;
+  width: 60%;
+}
+#addBtn {
+  padding: 8px 12px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+#taskList {
+  text-align: left;
+  margin-top: 15px;
+  padding-left: 20px;
+}
